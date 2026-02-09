@@ -1,5 +1,4 @@
 # Teoria_Wspolbieznosci_2024_2025
-
 ### Repository for Teoria Współbieżności (Theory of Concurrency) course at AGH University
 
 Repozytorium zawiera moje rozwiązania zadań domowych z Teorii Współbieżności - katalogi `zd1`, `zd2` i `zd3`.
